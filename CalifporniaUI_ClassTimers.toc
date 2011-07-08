@@ -1,0 +1,8 @@
+## Interface: 40200
+## Author: Califpornia aka Ennie
+## Version: 1.0
+## Title: |cffaa0000CalifporniaUI|r ClassTimers
+## Notes: Simple buff, debuff and cooldown tracking for units and spells based on zork`s rFilter3
+
+config.lua
+core.lua
